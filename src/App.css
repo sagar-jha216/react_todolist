@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+.todo-container{
+    margin-left: 100px;
+}
+
+input{
+    width: 100%;
+}
+
+.kg-button{
+    min-width: 80px;
+}
+.kg-row{
+    margin: 7px 3px;
+}
